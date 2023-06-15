@@ -1,6 +1,6 @@
 # SQS Customers Service
 
-This repository contains the implementation of an AWS Simple Queue Service (SQS) based application that handles customer data. It is divided into three main components:
+This repository contains the implementation of an AWS Simple Queue Service (SQS) based application that handles customer data. It is divided into two main components:
 
 1. **Customers.Api**: This is the main API that handles customer related requests. It contains several important sub-components such as:
 
